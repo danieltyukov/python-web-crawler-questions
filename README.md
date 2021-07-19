@@ -1,2 +1,2 @@
-# 🕷️ Python Web Crawler Practice
+# Python Web Crawler
 
